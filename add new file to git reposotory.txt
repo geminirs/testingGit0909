@@ -1,0 +1,7 @@
+add new file to git reposotory
+
+新添加的文件怎么才能进入git的版本控制呢？
+是不是需要
+add
+commit
+sync？
